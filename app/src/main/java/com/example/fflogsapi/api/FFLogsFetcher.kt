@@ -26,7 +26,7 @@ class FFLogsFetcher {
     fun fetchZones(){
         Log.e(TAG, "Fetch zones called.")
         //val responseLiveData:MutableLiveData<List<String>> = MutableLiveData()
-       // val ffLogsRequest: Call<List<Zones>> = ffLogsApi.fetchZones()
+        //val ffLogsRequest: Call<List<Zones>> = ffLogsApi.fetchZones()
 
 
     }
